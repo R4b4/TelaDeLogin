@@ -1,2 +1,2 @@
 # TelaDeLogin
-Tela de Login HTML e CSS.
+Tela de Login com HTML e CSS.
